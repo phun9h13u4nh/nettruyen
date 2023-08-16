@@ -64,8 +64,8 @@ chapter = data_c["chapters"]
 print(len(chapter))
 #luong=int(input("Luoong:"))
 # for i in range(luong):
-while True:
-    diem=0
+diem=0
+while True"
     cl = requests.Session()
     red=requests.Session()
     for i in reversed(range(len(chapter))):
